@@ -14,7 +14,7 @@ A simple world quiz app where users answer questions related to different countr
 ==>EJS: Templating engine for rendering HTML pages
 
 **Installation**
-Clone the repository: git clone https://github.com/yourusername/world-quiz-app.git
+Clone the repository: git clone https://github.com/Chawla-Suhani/World-Capital-Quiz.git
 
 **Install dependencies:**
 cd world-quiz-app
